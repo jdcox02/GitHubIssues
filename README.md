@@ -33,5 +33,5 @@ For questions or feedback, please reach out to:
 
 - **Name**: Joshua Cox
 - **Email**: [jdcox02@gmail.com](mailto:jdcox02@gmail.com)
-- **GitHub**: [joshcox](https://github.com/jdcox02)
+- **GitHub**: [jdcox02](https://github.com/jdcox02)
 - **LinkedIn**: [jdcox02](https://www.linkedin.com/in/jdcox02)
