@@ -18,9 +18,9 @@
 
 ### Clone the Repository
 
-\`\`\`bash
+To clone the repository, use the following command:
+```bash
 git clone https://github.com/jdcox02/GitHubIssues.git
-\`\`\`
 
 ### Resources and Attributions
 
