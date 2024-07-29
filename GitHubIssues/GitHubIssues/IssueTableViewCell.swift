@@ -1,6 +1,6 @@
 //
 //  IssueTableViewCell.swift
-//  Project3
+//  GitHubIssues
 //
 //  Created by Joshua Cox on 1/21/24.
 //

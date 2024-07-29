@@ -1,6 +1,6 @@
 //
 //  GitHubClient.swift
-//  Project3
+//  GitHubIssues
 //
 //  Created by Joshua Cox on 1/23/24.
 //
