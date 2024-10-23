@@ -11,6 +11,14 @@
 - **Issue Details**: Tap on an issue to view detailed information, including the title, author, description, creation date, and status image.
 - **Pull to Refresh**: Refresh the list of issues using the pull-to-refresh gesture.
 
+## Knowledge and Skills Demonstrated
+
+- **API Integration**: Utilizes the GitHub API to fetch and display issues, showcasing experience in working with external APIs.
+- **Networking with Alamofire**: Uses Alamofire for making HTTP requests and managing JSON data, a valuable skill for building responsive apps.
+- **UIKit**: Builds the user interface using UIKit, providing a smooth user experience.
+- **Data Handling**: Manages API responses and presents the data clearly and effectively within the app.
+- **Asynchronous Programming**: Handles API calls and updates the UI asynchronously for a seamless experience.
+
 ### Prerequisites
 
 - Xcode 14.0 or later
